@@ -1,0 +1,9 @@
+I got my test inputs from a random number generator, generating 5 random numbers between 1-200 (could automate testing 
+and expand with more numbers and a larger bound) 
+random number source https://www.random.org
+
+I found my prime numbers from multiple different college websites and I checked they where all the same up to 200
+https://mathcs.clarku.edu/~djoyce/numbers/primes.html
+https://www.math.utah.edu/~alfeld/math/primelist.html
+https://www2.cs.arizona.edu/icon/oddsends/primes.html
+https://math.uchicago.edu/~luis/allprimes.html
